@@ -1,0 +1,19 @@
+.home {
+  margin-top: 3em;
+  background-color: #86beec;
+  min-height: 100vh;
+  min-width: 100%;
+  position: relative;
+}
+
+.block {
+  width: 500px;
+  height: 500px;
+  background-color: rgb(59, 58, 58);
+}
+
+.footer{
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+}

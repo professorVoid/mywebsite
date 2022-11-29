@@ -1,0 +1,9 @@
+.blog {
+  display: block;
+  margin-top: 3em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin-bottom: 0px;
+  height: 100vh;
+  background-color: #c5e9ca;
+}

@@ -1,0 +1,9 @@
+<div class="container">
+  <app-header></app-header>
+  <!-- Needs the header to always be on the page -->
+  <div [@routeAnimations]="getRouteAnimationData()" class="content">
+    <router-outlet></router-outlet>
+  </div>
+  <!-- Needs the footer to always be on the page -->
+  <!-- This will be area Angular loads in page dynamically -->
+</div>
